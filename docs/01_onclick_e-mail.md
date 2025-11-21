@@ -9,3 +9,4 @@
 - Set up your email credentials in the node.
 - Click Activate to make the workflow live.
 - Use the Webhook URL inside your button onclick function.
+- <img width="529" height="428" alt="image" src="https://github.com/user-attachments/assets/844c0045-99d3-4dc3-a1f4-c5cc709d4426" />
